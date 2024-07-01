@@ -28,11 +28,3 @@ The project involves the following steps:
 
 The primary model used in this project is XGBoost Regressor, which was selected for its efficiency and performance. The model's effectiveness is measured using MAE and RMSE metrics.
 
-## Results
-
-The XGBoost Regressor model achieved the following results:
-
-- MAE: (Value)
-- RMSE: (Value)
-- Cross-Validation MAE: (Value)
-
